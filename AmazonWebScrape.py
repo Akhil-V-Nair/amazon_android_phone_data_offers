@@ -61,8 +61,6 @@ with open('AmazonWebScrapper.csv', 'w', newline='',encoding='UTF8') as file:
 #Successding day days, we run the file with updated link and get the data for the day again.
 #Data collected for each day is cleaned and transformed using PowerBI to run a complete analysis after the Great Indian Sale.
 #Once cleaned the csv will be deleted for it to be created again the next day and the cleaned csv file for each day is saved individually.
-#This will go on till the end of Great Indian Sale to observe if there was
-#any changes or promotions done to the first page of Amazon.
 #The time in which the data is pulled will be random and only when the Great Indian Sale
 #begins, we pull the data at 12:00am.
 
