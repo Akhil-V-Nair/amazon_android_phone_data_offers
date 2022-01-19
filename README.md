@@ -10,8 +10,8 @@
 1. Combined Android Phone data as a csv file.
 2. Webscraper python file.
 3. Data Processing jupyter notebook.
-4. SQL code used for Database creation( WIP )
-5. Screenshot of analysed Power BI Dashboard ( WIP )
+4. SQL code used for Database creation.
+5. Screenshot of analysed Power BI Dashboard .
 
 # Dashboard Analysis
 ![Dashboard](https://user-images.githubusercontent.com/73117054/150033164-9b9d79fc-d0a1-456b-b370-6dbfab9189bf.png)
